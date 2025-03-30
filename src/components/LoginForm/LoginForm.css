@@ -1,0 +1,23 @@
+.login-container {
+    width: 300px;
+    padding: 30px;
+    border: #b64d6f solid 2px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.login-form-title {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 18px;
+    color: black;
+    padding-bottom: 10px;
+}
+
+.login-form button {
+    margin-top: 10px;
+}

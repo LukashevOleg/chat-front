@@ -1,0 +1,23 @@
+.register-container {
+    width: 300px;
+    padding: 30px;
+    border: #b64d6f solid 2px;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.register-form-title {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 18px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.register-form button {
+    margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+{
+  "realm": "chat-realm",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "external",
+  "resource": "pkce-chat-client",
+  "redirectUri": "http://localhost:3000/home"
+}

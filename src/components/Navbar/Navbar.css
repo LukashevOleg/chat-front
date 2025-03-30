@@ -1,0 +1,22 @@
+.navbar {
+    margin: 0 30px;
+}
+
+.navbar-items {
+    display: flex;
+    list-style-type: none;
+    font-weight: 600;
+}
+
+.navbar-items > li {
+    margin: 5px;
+    padding: 5px;
+}
+
+.navbar-items a {
+    color: #b64d6f;
+}
+
+.navbar-items a:focus {
+    border-bottom: 2px solid;
+}
